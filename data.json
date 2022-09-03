@@ -1,0 +1,35 @@
+{
+    "game_count": 0,
+    "played": {
+        "paper": 0,
+        "rock": 0,
+        "scissors": 0
+    },
+    "played_after": {
+        "paper": {
+            "paper": 0,
+            "rock": 0,
+            "scissors": 0
+        },
+        "rock": {
+            "paper": 0,
+            "rock": 0,
+            "scissors": 0
+        },
+        "scissors": {
+            "paper": 0,
+            "rock": 0,
+            "scissors": 0
+        }
+    },
+    "round_count": 0,
+    "starter": {
+        "paper": 0,
+        "rock": 0,
+        "scissors": 0
+    },
+    "wins": {
+        "program": 0,
+        "user": 0
+    }
+}
